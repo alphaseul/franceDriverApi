@@ -1,6 +1,6 @@
 api_platform:
-  title: "Symfony REST API"
-  description: "A Symfony API to manage a simple blog app."
+  title: "France Driver REST API"
+  description: "A API for Admin"
   version: "1.0.0"
   mapping:
     paths: ["%kernel.project_dir%/src/Entity"]
