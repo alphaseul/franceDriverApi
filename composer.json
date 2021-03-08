@@ -1,4 +1,6 @@
 {
+    "name": "francedriver/francedriver",
+    "description": "france driver reste api",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
